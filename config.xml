@@ -28,7 +28,9 @@
   <icon src="icons/ios/retina.png" gap:platform="ios" width="72" height="72" />
   <icon src="icons/ios/ipad.png" gap:platform="ios" width="114" height="114" />
   <icon src="icons/ios/ipad_at_2x.png" gap:platform="ios" width="144" height="144" />
-
-  <gap:plugin name="FacebookConnect"><param name="APP_ID" value="288492194593093" /></gap:plugin>
+  
+  <gap:url-scheme name="com.phonegap.test" role="Shell">
+    <scheme>pgb</scheme>
+  </gap:url-scheme>
 
 </widget>
