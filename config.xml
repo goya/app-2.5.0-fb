@@ -32,5 +32,7 @@
   <gap:url-scheme name="com.phonegap.test" role="Shell">
     <scheme>pgb</scheme>
   </gap:url-scheme>
+  
+  <gap:plugin name="FacebookConnect" version="0.2.3"><param name="APP_ID" value="288492194593093" /></gap:plugin>
 
 </widget>
