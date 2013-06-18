@@ -14,7 +14,7 @@
 		Brett Rudd
 	</author>
 
-  <preference name="phonegap-version" value="2.7.0" />
+  <preference name="phonegap-version" value="2.5.0" />
 
   <gap:splash src="splash/ios/Default.png" width="320" height="480" />
   <gap:splash src="splash/ios/Default_at_2x.png" width="640" height="960" />
@@ -33,6 +33,6 @@
     <scheme>pgb</scheme>
   </gap:url-scheme>
   
-  <gap:plugin name="FacebookConnect" version="0.2.3"><param name="APP_ID" value="288492194593093" /></gap:plugin>
+  <gap:plugin name="com.phonegap.facebook" version="0.2.3"><param name="APP_ID" value="288492194593093" /></gap:plugin>
 
 </widget>
