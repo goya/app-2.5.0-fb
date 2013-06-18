@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns	= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		    = "com.ruddworks.testapp"
+	id		    = "com.nitobi.johngarrett"
 	version 	= "1.0">
 
 	<name>Cordova App 2.5.0 - FB</name>
@@ -28,10 +28,6 @@
   <icon src="icons/ios/retina.png" gap:platform="ios" width="72" height="72" />
   <icon src="icons/ios/ipad.png" gap:platform="ios" width="114" height="114" />
   <icon src="icons/ios/ipad_at_2x.png" gap:platform="ios" width="144" height="144" />
-  
-  <gap:url-scheme name="com.phonegap.test" role="Shell">
-    <scheme>pgb</scheme>
-  </gap:url-scheme>
   
   <gap:plugin name="com.phonegap.facebook">
     <param name="APP_ID" value="288492194593093" />
