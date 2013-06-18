@@ -33,6 +33,6 @@
     <scheme>pgb</scheme>
   </gap:url-scheme>
   
-  <gap:plugin name="com.phonegap.facebook" version="0.2.3"><param name="APP_ID" value="288492194593093" /></gap:plugin>
+  <gap:plugin name="com.phonegap.facebook"><param name="APP_ID" value="288492194593093" /></gap:plugin>
 
 </widget>
