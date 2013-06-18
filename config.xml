@@ -4,7 +4,7 @@
 	id		    = "com.nitobi.johngarrett"
 	version 	= "1.0">
 
-	<name>Cordova App 2.5.0 - FB</name>
+	<name>Cordova App 2.7.0 - FB</name>
 
 	<description>
         A test app that installs facebook
@@ -14,7 +14,7 @@
 		Brett Rudd
 	</author>
 
-  <preference name="phonegap-version" value="2.5.0" />
+  <preference name="phonegap-version" value="2.7.0" />
 
   <gap:splash src="splash/ios/Default.png" width="320" height="480" />
   <gap:splash src="splash/ios/Default_at_2x.png" width="640" height="960" />
