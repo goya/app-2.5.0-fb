@@ -31,7 +31,7 @@
   
   <gap:plugin name="com.phonegap.facebook">
     <param name="APP_ID" value="288492194593093" />
-    <param name="APP_NA" value="FriendString" />
+    <param name="APP_NAME" value="FriendString" />
   </gap:plugin>
 
 </widget>
