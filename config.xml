@@ -30,7 +30,7 @@
   <icon src="icons/ios/ipad_at_2x.png" gap:platform="ios" width="144" height="144" />
   
   <gap:plugin name="com.phonegap.facebook">
-    <param name="APP_ID" value="288492194593093" />
+    <param name="APP_3ID" value="288492194593093" />
     <param name="APP_NAME" value="FriendString" />
   </gap:plugin>
 
