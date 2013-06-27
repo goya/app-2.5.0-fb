@@ -4,7 +4,7 @@
 	id		    = "com.nitobi.johngarrett"
 	version 	= "1.0">
 
-	<name>Cordova App 2.9.0 - FB</name>
+	<name>Cordova App 2.5.0 - FB</name>
 
 	<description>
         A test app that installs facebook
@@ -13,6 +13,8 @@
 	<author href="http://adobe.com" email="rudd@adobe.com">
 		Brett Rudd
 	</author>
+
+  <preference name="phonegap-version" value="2.5.0" />
 
   <gap:splash src="splash/ios/Default.png" width="320" height="480" />
   <gap:splash src="splash/ios/Default_at_2x.png" width="640" height="960" />
@@ -26,10 +28,10 @@
   <icon src="icons/ios/retina.png" gap:platform="ios" width="72" height="72" />
   <icon src="icons/ios/ipad.png" gap:platform="ios" width="114" height="114" />
   <icon src="icons/ios/ipad_at_2x.png" gap:platform="ios" width="144" height="144" />
-  
-  <gap:plugin name="com.phonegap.facebook" version="0.3.1">
+  <!--
+  <gap:plugin name="FacebookConnect" version="0.3.1">
     <param name="APP_ID" value="288492194593093" />
     <param name="APP_NAME" value="FriendString" />
   </gap:plugin>
-
+  -->
 </widget>
