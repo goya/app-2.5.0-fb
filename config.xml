@@ -14,7 +14,7 @@
 		Brett Rudd
 	</author>
 
-  <preference name="phonegap-version" value="3.4.0" />
+  <preference name="phonegap-version" value="3.5.0" />
 
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
