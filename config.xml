@@ -14,7 +14,7 @@
 		Brett Rudd
 	</author>
 
-  <preference name="phonegap-version" value="3.3.0" />
+  <preference name="phonegap-version" value="3.4.0" />
 
   <gap:plugin name="org.apache.cordova.console" />
   <gap:splash src="splash-main.png" />
