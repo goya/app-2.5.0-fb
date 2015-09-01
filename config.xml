@@ -14,8 +14,7 @@
 		Brett Rudd
 	</author>
 
-  <preference name="phonegap-version" value="cli-5.1.1" />
-  <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
+  <preference name="phonegap-version" value="cli-5.2.1" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
 
