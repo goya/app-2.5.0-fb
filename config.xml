@@ -17,5 +17,7 @@
   <preference name="phonegap-version" value="cli-5.2.0" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
+  
+  <preference name="android-minSdkVersion" value="9" />
 
 </widget>
