@@ -4,7 +4,7 @@
 	id		    = "com.goya.appmin"
 	version 	= "1.0">
 
-	<name></name>
+	<name>taco taco</name>
 
 	<description>
         Try out a minimum app!
@@ -19,5 +19,7 @@
   <icon src="icon-main.png" />
   
   <preference name="android-minSdkVersion" value="9" />
-
+        <gap:config-file platform="android" parent="/manifest">
+		<application android:debuggable="true" />
+	</gap:config-file>
 </widget>
