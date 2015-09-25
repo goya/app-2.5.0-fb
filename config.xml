@@ -21,8 +21,5 @@
   <icon src="icon-main.png" />
   
   <preference name="android-minSdkVersion" value="9" />
-  <preference name="android-build-tool" value="ant" />
-        <gap:config-file platform="android" parent="/manifest">
-		<application android:debuggable="true" />
-	</gap:config-file>
+  <preference name="android-build-tool" value="gumble" />
 </widget>
