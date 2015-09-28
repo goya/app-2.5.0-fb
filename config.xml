@@ -19,7 +19,7 @@
   <preference name="phonegap-version" value="cli-5.2.0" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
-  <gap:plugin name="org.apache.cordova.taco-inappbrowser" source="npm"/>
+  <gap:plugin name="org.apache.cordova.inappbrowser" version="taco" source="npm"/>
   
   <preference name="android-minSdkVersion" value="9" />
   <preference name="android-build-tool" value="gumble" />
