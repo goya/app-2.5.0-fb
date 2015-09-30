@@ -20,6 +20,8 @@
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
   
+  <gap:plugin name="cordova-plugin-wkwebview-engine" source="npm" />
+  
   <preference name="android-minSdkVersion" value="9" />
   <preference name="android-build-tool" value="gradle" />
 </widget>
