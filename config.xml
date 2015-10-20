@@ -3,7 +3,7 @@
 
 	    xmlns:android   = "http://schemas.android.com/apk/res/android"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		    = "com.goya.appmin"
+	id		    = "rambo"
 	version 	= "1.0">
 
 	<name>taco taco</name>
