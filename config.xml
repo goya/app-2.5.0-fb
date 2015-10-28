@@ -24,9 +24,4 @@
   <gap:plugin name="cordova-plugin-network-information" source="npm" />
   <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
   <gap:plugin name="cordova-plugin-vibration" source="npm" />
-  <gap:plugin name="cordova-plugin-vibration" source="npm" />
-  <gap:plugin name="com.phonegap.plugins.facebookconnect" source="npm" version="0.9.0">
-    <param name="APP_ID" value="..." />
-    <param name="APP_NAME" value="..." />
-  </gap:plugin>
 </widget>
