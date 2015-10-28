@@ -20,8 +20,13 @@
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
   <preference name="android-build-tool" value="gradle" />
-      <gap:plugin name="cordova-plugin-media" source="npm" />
-    <gap:plugin name="cordova-plugin-network-information" source="npm" />
-    <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
-    <gap:plugin name="cordova-plugin-vibration" source="npm" />
+  <gap:plugin name="cordova-plugin-media" source="npm" />
+  <gap:plugin name="cordova-plugin-network-information" source="npm" />
+  <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
+  <gap:plugin name="cordova-plugin-vibration" source="npm" />
+  <gap:plugin name="cordova-plugin-vibration" source="npm" />
+  <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.9.0">
+    <param name="APP_ID" value="..." />
+    <param name="APP_NAME" value="..." />
+  </gap:plugin>
 </widget>
