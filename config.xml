@@ -16,7 +16,7 @@
 		Brett Rudd
 	</author>
 
-  <preference name="phonegap-version" value="3.0.0" />
+  <preference name="phonegap-version" value="3.1.0" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
   <preference name="android-build-tool" value="gradle" />
