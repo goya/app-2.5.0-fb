@@ -20,5 +20,5 @@
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
   <preference name="android-build-tool" value="gradale" />
-  <gap:plugin name="cordova-plugin-inappbrowser" version="0.6.0" source="npm" />
+  <gap:plugin name="cordova-plugin-inappbrowser" aversion="0.6.0" asource="npm" />
 </widget>
