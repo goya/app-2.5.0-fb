@@ -19,6 +19,6 @@
   <preference name="phonegap-version" value="cli-5.2.0" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
-  <preference name="android-build-tool" value="gradale" />
+  <preference name="android-build-tool" value="gradle" />
   <gap:plugin name="org.apache.cordova.inappbrowser" />
 </widget>
