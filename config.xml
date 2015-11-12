@@ -17,7 +17,7 @@
 	</author>
 
   <platform name="ios" >
-  	<preference name="phonegap-version" value="3.9.2" />
+  	<preference name="phonegap-version" value="13.9.2" />
   </platform>
   <platform name="wp8" />
   <preference name="phonegap-version" platform="wp8" value="3.4.0" />
