@@ -16,10 +16,10 @@
 		Brett Rudd
 	</author>
 
+  	<gap:plugin name="cordova-plugin-inappbrowser" source="npm" platform="android" version="1.0.0" />
   <platform name="ios" >
   	<preference name="phonegap-version" value="3.9.2" />
   	<gap:plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
-  	<gap:plugin name="cordova-plugin-inappbrowser" source="npm" platform="android" version="1.0.0" />
   </platform>
   <gap:plugin name="cordova-plugin-geolocation" source="npm" />
   <platform name="android">
