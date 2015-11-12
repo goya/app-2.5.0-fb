@@ -17,7 +17,7 @@
 	</author>
 
   <platform name="ios" >
-  	<preference name="phonegap-version" value="13.9.2" />
+  	<preference name="phonegap-version" value="3.9.2" />
   	<gap:plugin name="org.apache.cordova.inappbrowser" source="npm" />
   </platform>
   <gap:plugin name="org.apache.cordova.geolocation" source="npm" />
