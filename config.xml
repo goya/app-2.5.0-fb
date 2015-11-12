@@ -18,9 +18,9 @@
 
   <platform name="ios" >
   	<preference name="phonegap-version" value="3.9.2" />
-  	<gap:plugin name="org.apache.cordova.inappbrowser" source="npm" />
+  	<gap:plugin name="cordova-plugin-inappbrowser" source="npm" />
   </platform>
-  <gap:plugin name="org.apache.cordova.geolocation" source="npm" />
+  <gap:plugin name="cordova-plugin-geolocation" source="npm" />
   <platform name="wp8" />
   <platform name="android" />
   <preference name="phonegap-version" platform="wp8" value="3.4.0" />
