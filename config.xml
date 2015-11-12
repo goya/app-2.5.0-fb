@@ -18,7 +18,9 @@
 
   <platform name="ios" >
   	<preference name="phonegap-version" value="13.9.2" />
+  	<gap:plugin name="org.apache.cordova.inappbrowser" source="npm" />
   </platform>
+  <gap:plugin name="org.apache.cordova.geolocation" source="npm" />
   <platform name="wp8" />
   <preference name="phonegap-version" platform="wp8" value="3.4.0" />
   <gap:splash src="splash-main.png" />
