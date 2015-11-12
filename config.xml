@@ -21,7 +21,6 @@
   	<gap:plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
   </platform>
   <gap:plugin name="cordova-plugin-geolocation" source="npm" />
-  <platform name="wp8" />
   <platform name="android">
   	<gap:plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.0" />
   	</platform>
