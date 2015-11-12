@@ -22,6 +22,7 @@
   </platform>
   <gap:plugin name="org.apache.cordova.geolocation" source="npm" />
   <platform name="wp8" />
+  <platform name="android" />
   <preference name="phonegap-version" platform="wp8" value="3.4.0" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
