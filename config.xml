@@ -22,7 +22,7 @@
   	<preference name="phonegap-version" value="3.9.2" />
   	<gap:plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
   </platform>
-  <gap:plugin name="cordova-plugin-geolocation" source="npm" />
+  <gap:plugin name="cordova-plugin-crosswalk-webview" platform="android" source="npm" />
   <gap:platform name="wp8"></gap:platform>
   <platform name="android">
   	</platform>
