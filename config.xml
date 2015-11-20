@@ -17,6 +17,7 @@
 	</author>
 
   	<plugin name="cordova-plugin-inappbrowser" source="npm" platform="android" version="1.0.1" />
+  	<plugin name="com.appsflyer.phonegap.plugins.appsflyer" spec="1.0.0" source="pgb" />
   <platform name="ios" >
   	<preference name="phonegap-version" value="3.9.2" />
   	<plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
