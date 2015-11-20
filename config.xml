@@ -17,7 +17,7 @@
 	</author>
 
   	<plugin name="cordova-plugin-inappbrowser" source="npm" platform="android" version="1.0.1" />
-  	<plugin name="com.brettrudd.test" spec="0.0.2" source="pgb" />
+  	<plugin name="cordova-plugin-battery-status" source="pgb" />
   <platform name="ios" >
   	<preference name="phonegap-version" value="3.9.2" />
   	<plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
