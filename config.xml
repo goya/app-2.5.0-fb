@@ -18,7 +18,7 @@
 
   	<plugin name="cordova-plugin-inappbrowser" source="npm" platform="android" version="1.0.1" />
 	<plugin name="cordova-plugin-geolocation" source="pgb" spec="1.0.1" />
-  	<plugin name="apache/cordova-plugin-camera" />
+  	<plugin name="cordova-plugin-camera" />
   <platform name="ios" >
   	<preference name="deployment-target" value="8.0" />
   	<preference name="phonegap-version" value="3.9.2" />
