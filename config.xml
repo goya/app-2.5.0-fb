@@ -17,7 +17,7 @@
 	</author>
 
   	<plugin name="cordova-plugin-inappbrowser" source="npm" platform="android" version="1.0.1" />
-	<plugin name="cordova-plugin-geolocation" source="pgb" spec="1.0.1" />
+	<plugin name="cordova-plugin-geolocation" spec="1.0.1" />
 	<plugin name="cordova-plugin-device" />
   	<plugin name="cordova-plugin-camera" />
   <platform name="ios" >
