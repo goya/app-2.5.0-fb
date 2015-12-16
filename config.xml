@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns	= "http://www.w3.org/ns/widgets"
-
-	    xmlns:android   = "http://schemas.android.com/apk/res/android"
+	xmlns:android   = "http://schemas.android.com/apk/res/android"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		    = "rambo"
+	id		= "rambo"
 	version 	= "1.0">
 
-	<name>taco taco</name>
+	<name>taco taco boondle</name>
 
 	<description>
         Try out a minimum app!
