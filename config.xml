@@ -31,7 +31,7 @@
 <plugin name="phonegap-plugin-mobile-accessibility" source="npm"  />
 <plugin name="cordova-plugin-statusbar" source="npm" />
 <plugin name="cordova-plugin-local-notifications-pgb" source="npm" />
-<gap:plugin name="de.appplant.cordova.plugin.background-mode" />
+<plugin name="de.appplant.cordova.plugin.background-mode" source="pgb" />
   	
   <platform name="ios" >
   	<preference name="deployment-target" value="8.0" />
