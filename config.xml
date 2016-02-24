@@ -15,14 +15,27 @@
 		Brett Rudd
 	</author>
 
-  	<plugin name="cordova-plugin-inappbrowser" source="npm" platform="android" version="1.0.1" />
+  <!--	<plugin name="cordova-plugin-inappbrowser" source="npm" platform="android" version="1.0.1" />
 	<plugin name="cordova-plugin-geolocation" spec="1.0.1" />
 	<plugin name="cordova-plugin-device" />
   	<plugin name="cordova-plugin-camera" />
+  	-->
+  	<plugin name="nl.x-services.plugins.insomnia"/>
+<plugin name="cordova-plugin-vibration"    source="npm" />
+<plugin name="cordova-plugin-device" source="npm" />
+<plugin name="cordova-plugin-dialogs" source="npm" />
+<plugin name="cordova-plugin-file-transfer" source="npm" />
+<plugin name="cordova-plugin-geolocation" source="npm" />
+<plugin name="cordova-plugin-inappbrowser" source="npm" />
+<plugin name="cordova-plugin-network-information" source="npm" />
+<plugin name="phonegap-plugin-mobile-accessibility" source="npm"  />
+<plugin name="cordova-plugin-statusbar" source="npm" />
+<plugin name="cordova-plugin-local-notifications-pgb" source="npm" />
+<gap:plugin name="de.appplant.cordova.plugin.background-mode" />
+  	
   <platform name="ios" >
   	<preference name="deployment-target" value="8.0" />
   	<preference name="phonegap-version" value="3.9.2" />
-  	<plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
   </platform>
   <gap:platform name="wp8"></gap:platform>
   <platform name="android">
