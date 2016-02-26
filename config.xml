@@ -15,13 +15,11 @@
 		Brett Rudd
 	</author>
 
-  <!--	<plugin name="cordova-plugin-inappbrowser" source="npm" platform="android" version="1.0.1" />
+  	<plugin name="cordova-plugin-inappbrowser" source="npm" platform="android" version="1.0.1" />
 	<plugin name="cordova-plugin-geolocation" spec="1.0.1" />
 	<plugin name="cordova-plugin-device" />
   	<plugin name="cordova-plugin-camera" />
-  	-->
-
-<plugin name="de.appplant.cordova.plugin.background-mode" source="pgb" />
+  	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git" />
   	
   <platform name="ios" >
   	<preference name="phonegap-version" value="3.9.2" />
