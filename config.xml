@@ -19,7 +19,7 @@
 	<plugin name="cordova-plugin-geolocation" spec="1.0.1" />
 	<plugin name="cordova-plugin-device" />
   	<plugin name="cordova-plugin-camera" />
-  	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git" />
+  	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#2475bfa" />
   	
   <platform name="ios" >
   	<preference name="phonegap-version" value="3.9.2" />
