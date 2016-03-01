@@ -17,7 +17,8 @@
 
   	<plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
 	<plugin name="cordova-plugin-geolocation" spec=">=1" />
-	<plugin spec="https://github.com/apache/cordova-plugin-device.git" />
+	<plugin spec="https://github.com/apache/cordova-plugin-camera.git" />
+	<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" />
   	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" />
   	
   <platform name="ios" >
