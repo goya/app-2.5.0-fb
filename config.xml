@@ -15,11 +15,11 @@
 		Brett Rudd
 	</author>
 
-  	<plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
+  	<!--<plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
 	<plugin name="cordova-plugin-geolocation" spec=">=1" />
 	<plugin spec="https://github.com/apache/cordova-plugin-camera.git" />
 	<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" />
-  	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" />
+  	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" />-->
   	
   	<plugin name="cordova-plugin-filepath"  spec="1.0.2" source="npm" /> <!-- Android only to resolve file path from filesystem -->
   <plugin name="cordova-plugin-media"  spec="2.2.0" source="npm" />
