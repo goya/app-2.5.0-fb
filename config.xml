@@ -20,6 +20,8 @@
 	<plugin spec="https://github.com/apache/cordova-plugin-camera.git" />
 	<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" />
   	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" />
+  	<plugin spec="cordova-plugin-camera" />
+  	<plugin spec="cordova-plugin-contacts" />
  
   <platform name="ios" >
   	<preference name="phonegap-version" value="3.9.2" />
