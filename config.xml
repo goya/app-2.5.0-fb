@@ -22,7 +22,6 @@
   	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" />
   	<plugin name="cordova-plugin-camera" />
   	<plugin name="cordova-plugin-contacts" />
-  	<plugin spec="https://reema@github.com/magnori/cordova-background-geolocation.git" />
   	<plugin spec="https://github.com/magnori/cordova-background-geolocation.git" />
   	<plugin spec="https://github.com/commontime/com.commontime.cordova.messaging.git#:/legacy-asb" />
  
