@@ -22,7 +22,6 @@
   	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" />
   	<plugin name="cordova-plugin-camera" />
   	<plugin name="cordova-plugin-contacts" />
-  	<plugin spec="https://ramma@github.com/commontime/com.commontime.cordova.messaging.git#:/legacy-asb" />
  
   <platform name="ios" >
   	<preference name="phonegap-version" value="3.9.2" />
