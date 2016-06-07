@@ -17,11 +17,11 @@
 
   	<!--<plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
 	<plugin name="cordova-plugin-geolocation" spec=">=1" />
-	<plugin spec="https://github.com/apache/cordova-plugin-camera.git" />-->
+	<plugin spec="https://github.com/apache/cordova-plugin-camera.git" />
 	<plugin name="phonegap-plugin-push" version="1.6.4" src="https://github.com/phonegap/phonegap-plugin-push.git">
 		<param name="SENDER_ID" value="12345678" />
 		</plugin>
-	<!--<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" />
+	<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" />
   	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" />
   	<plugin name="cordova-plugin-camera" />
   	<plugin name="cordova-plugin-contacts" />-->
@@ -31,6 +31,7 @@
   </platform>
   <gap:platform name="wp8" />
   <platform name="android" />-->
+  <preference name="windows-appx-target" value="uap" />
   <preference name="phonegap-version" value="cli-6.1.0" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
