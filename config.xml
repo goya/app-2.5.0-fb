@@ -31,8 +31,11 @@
   </platform>
   <gap:platform name="wp8" />
   <platform name="android" />-->
+  
   <platform name="windows" />
   <preference name="windows-appx-target" value="uap" />
+  <preference name="windows-identity-name" value="PhonegapBuild.PGBDeveloper" />
+  
   <preference name="phonegap-version" value="cli-6.1.0" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
