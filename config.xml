@@ -31,6 +31,7 @@
   </platform>
   <gap:platform name="wp8" />
   <platform name="android" />-->
+  <platform name="windows" />
   <preference name="windows-appx-target" value="uap" />
   <preference name="phonegap-version" value="cli-6.1.0" />
   <gap:splash src="splash-main.png" />
