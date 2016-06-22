@@ -34,6 +34,7 @@
   
   <platform name="windows" />
   <preference name="windows-appx-target" value="uap" />
+  <preference name="windows-arch" value="anycpu" />
   <preference name="windows-identity-name" value="PhonegapBuild.PGBDeveloper" />
   
   <preference name="phonegap-version" value="cli-6.1.0" />
