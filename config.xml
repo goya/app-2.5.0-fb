@@ -24,13 +24,12 @@
 	<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" />
   	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" />
   	<plugin name="cordova-plugin-camera" />
-  	<plugin name="cordova-plugin-contacts" />-->
- <!--
+  	<plugin name="cordova-plugin-contacts" /> -->
+ 
   <platform name="ios" >
   	<preference name="phonegap-version" value="3.9.2" />
   </platform>
-  <gap:platform name="wp8" />
-  <platform name="android" />-->
+  <platform name="android" />
   
   <platform name="windows" />
   <preference name="windows-appx-target" value="8.1-phone"/>
