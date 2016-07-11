@@ -26,14 +26,11 @@
   	<plugin name="cordova-plugin-camera" />
   	<plugin name="cordova-plugin-contacts" /> -->
  
-  <platform name="ios" >
-  	<preference name="phonegap-version" value="3.9.2" />
-  </platform>
+  <platform name="ios" />
   <platform name="android" />
-  
   <platform name="windows" />
   <preference name="windows-appx-target" value="8.1-phone"/>
-<preference name="windows-arch" value="anycpu" />
+  <preference name="windows-arch" value="anycpu" />
   
   <preference name="phonegap-version" value="cli-6.1.0" />
   <gap:splash src="splash-main.png" />
