@@ -15,19 +15,17 @@
 		Brett Rudd
 	</author>
 
-  	<plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
+  	<!--<plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.1" />
 	<plugin name="cordova-plugin-geolocation" spec=">=1" />
 	<plugin spec="https://github.com/apache/cordova-plugin-camera.git" />
-	<!--<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" />
+	<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" />
   	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" />
   	<plugin name="cordova-plugin-camera" />
   	<plugin name="cordova-plugin-contacts" /> -->
 
   <platform name="ios" />
   <platform name="android" />
-  <platform name="windows">
-  	<preference name="phonegap-version" value="4.3.1" />
-  </platform>
+  <platform name="windows" />
   <preference name="windows-appx-target" value="8.1-phone"/>
   <preference name="windows-arch" value="anycpu" />
   
