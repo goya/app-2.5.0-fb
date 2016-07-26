@@ -25,7 +25,9 @@
 
   <platform name="ios" />
   <platform name="android" />
-  <platform name="windows" />
+  <platform name="windows">
+	<preference name="phonegap-version" value="4.3.0" />
+  </platform>
   <!--<preference name="windows-appx-target" value="8.1-phone"/>
   <preference name="windows-arch" value="anycpu" />-->
   
