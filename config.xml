@@ -21,11 +21,11 @@
 	<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" />
   	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" /> -->
   	<plugin name="cordova-plugin-camera" />
-  	<plugin name="cordova-plugin-device" />
 
   <platform name="ios" />
   <platform name="android" />
-  <platform name="windows"></platform>
+  <platform name="windows">
+  	<plugin name="cordova-plugin-device" /></platform>
   <!--<preference name="windows-appx-target" value="8.1-phone"/>
   <preference name="windows-arch" value="anycpu" />-->
   
