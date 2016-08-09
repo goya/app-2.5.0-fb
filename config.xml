@@ -26,7 +26,6 @@
   <platform name="ios" />
   <platform name="android" />
   <platform name="windows">
-  	<plugin name="cordova-plugin-device" /></platform>
   <!--<preference name="windows-appx-target" value="8.1-phone"/>
   <preference name="windows-arch" value="anycpu" />-->
   
