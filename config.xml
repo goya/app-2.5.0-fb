@@ -21,6 +21,7 @@
 	<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" />
   	<plugin spec="https://github.com/apache/cordova-plugin-vibration.git#1.2.0" /> -->
   	<plugin name="cordova-plugin-geofence" />
+  	<cordova-plugin-websocket-server" />
 
   <platform name="ios" />
   <platform name="android" />
