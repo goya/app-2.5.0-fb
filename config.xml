@@ -29,7 +29,7 @@
   <!--<preference name="windows-appx-target" value="8.1-phone"/>
   <preference name="windows-arch" value="anycpu" />-->
   
-  <!--<preference name="deployment-target" value="7.0" />-->
+  <preference name="deployment-target" value="7.0" />
   <preference name="phonegap-version" value="3.5.0" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
