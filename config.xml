@@ -19,7 +19,7 @@
 	<plugin name="cordova-plugin-geolocation" spec=">=1" />
 	<plugin spec="https://github.com/apache/cordova-plugin-camera.git" />
 	<plugin name="cordova-plugin-device" spec="1.0.0" source="pgb" /> -->
-  	<plugin spec="https://github.com/apache/cordova-plugin-vibration-tastic.git" />
+  	<plugin name="cordova-plugin-crosswalk-webview-pgb-adapt" />
   	<!--<plugin name="cordova-plugin-geofence" />
   	<plugin name="cordova-plugin-websocket-server" />-->
 
