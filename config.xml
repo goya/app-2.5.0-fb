@@ -18,7 +18,7 @@
   	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-geolocation" spec=">=1" />
 	<plugin spec="https://github.com/apache/cordova-plugin-camera.git#master" />
-  	<plugin name="cordova-plugin-geofence" />
+  	<!--<plugin name="cordova-plugin-geofence" />-->
   	<plugin name="cordova-plugin-device" source="npm" />
 
   <platform name="ios" />
