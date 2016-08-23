@@ -15,11 +15,11 @@
 		Brett Rudd
 	</author>
 
-  	<plugin name="cordova-plugin-vibration" />
-	<plugin name="cordova-plugin-media" version=">=0" />
-	<plugin spec="https://github.com/apache/cordova-plugin-camera.git#master" />
-  	<!--<plugin name="cordova-plugin-geofence" />-->
-  	<plugin name="cordova-plugin-device" source="npm" />
+  	<!--<plugin name="cordova-plugin-camera" />-->
+	<plugin name="cordova-plugin-media" />
+	<!--<plugin spec="https://github.com/apache/cordova-plugin-camera.git#master" />
+  	<plugin name="cordova-plugin-geofence" />-->
+  	<plugin name="cordova-plugin-contacts" />
 
   <platform name="ios" />
   <platform name="android" />
