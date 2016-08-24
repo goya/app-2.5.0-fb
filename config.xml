@@ -19,8 +19,8 @@
 	<plugin name="cordova-plugin-media" />-->
 	<!--<plugin spec="https://github.com/apache/cordova-plugin-camera.git#master" />
   	<plugin name="cordova-plugin-geofence" />-->
-  	
-  	<plugin name="cordova-plugin-contacts" /><plugin name="cordova-plugin-media" />
+  	<plugin name="cordova-plugin-media" />
+  	<plugin name="cordova-plugin-contacts" />
 
   <platform name="ios" />
   <platform name="android" />
