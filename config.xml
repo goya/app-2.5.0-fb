@@ -20,8 +20,8 @@
 	<!--<plugin spec="https://github.com/apache/cordova-plugin-camera.git#master" />
   	<plugin name="cordova-plugin-geofence" />
   	<plugin name="cordova-plugin-media" />
-  	<plugin name="cordova-plugin-contacts" />-->
-	<plugin name="cordova-plugin-camera" spec="1.2.0" source="pgb" />
+  	<plugin name="cordova-plugin-contacts" />
+	<plugin name="cordova-plugin-camera" spec="1.2.0" source="pgb" />-->
 
   <platform name="ios" />
   <platform name="android" />
