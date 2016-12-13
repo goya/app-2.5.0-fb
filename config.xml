@@ -44,7 +44,7 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="phonegap-plugin-barcodescanner" />
 	
-	<plugin name="phonegap-plugin-push" version="~1.8.4" /> 
+	<!--<plugin name="phonegap-plugin-push" version="~1.8.4" />--> 
 	
 	
   <!--<platform name="ios" />
