@@ -21,7 +21,7 @@
   	<plugin name="cordova-plugin-geofence" />
   	<plugin name="cordova-plugin-media" />
   	<plugin name="cordova-plugin-contacts" />
-	<plugin name="cordova-plugin-camera" spec="1.2.0" source="pgb" />-->
+	<plugin name="cordova-plugin-camera" spec="1.2.0" source="pgb" />
 	<plugin name="cordova-plugin-appversion" />
 	<plugin name="cordova-plugin-camera" />
 	<plugin name="cordova-plugin-console" />
@@ -44,8 +44,8 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="phonegap-plugin-barcodescanner" />
 	
-	<!--<plugin name="phonegap-plugin-push" version="~1.8.4" />--> 
-	
+	<plugin name="phonegap-plugin-push" version="~1.8.4" />--> 
+	<preference name="target-device" value="handset" />
 	
   <!--<platform name="ios" />
   <platform name="android" />
@@ -54,7 +54,7 @@
   <preference name="windows-arch" value="anycpu" />-->
   
   <preference name="deployment-target" value="10.0" />
-  <preference name="phonegap-version" value="cli-6.4.0" />
+  <preference name="phonegap-version" value="cli-6.3.0" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
   <!--<preference name="android-build-tool" value="gradle" />
