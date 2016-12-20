@@ -16,13 +16,11 @@
 	</author>
 <plugin name="cordova-plugin-file" />
 	<plugin name="cordova-plugin-device" />
-  	<!--<plugin name="cordova-plugin-camera" />
-	<plugin name="cordova-plugin-media" />-->
-	<!--<plugin spec="https://github.com/apache/cordova-plugin-camera.git#master" />
-  	<plugin name="cordova-plugin-geofence" />
+  	<plugin name="cordova-plugin-camera" />
+	<plugin name="cordova-plugin-media" />
+	<plugin name="cordova-plugin-geofence" />
   	<plugin name="cordova-plugin-media" />
   	<plugin name="cordova-plugin-contacts" />
-	<plugin name="cordova-plugin-camera" spec="1.2.0" source="pgb" />
 	<plugin name="cordova-plugin-appversion" />
 	<plugin name="cordova-plugin-camera" />
 	<plugin name="cordova-plugin-console" />
@@ -45,7 +43,7 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="phonegap-plugin-barcodescanner" />
 	
-	<plugin name="phonegap-plugin-push" version="~1.8.4" />--> 
+	<plugin name="phonegap-plugin-push" /> 
 	<preference name="target-device" value="handset" />
 	
   <!--<platform name="ios" />
