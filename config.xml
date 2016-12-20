@@ -37,9 +37,6 @@
 	<plugin name="cordova-plugin-splashscreen" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-vibration" />
-	
-	<plugin name="cordova-plugin-websql" />
-	<plugin name="cordova-plugin-websql-async" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="phonegap-plugin-barcodescanner" />
 	
