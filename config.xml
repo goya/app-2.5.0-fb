@@ -14,11 +14,11 @@
 	<author href="http://adobe.com" email="rudd@adobe.com">
 		Brett Rudd
 	</author>
-<plugin name="cordova-plugin-file" />
+<!--<plugin name="cordova-plugin-file" />
 	<plugin name="cordova-plugin-device" />
   	<plugin name="cordova-plugin-camera" />
-	<plugin name="cordova-plugin-media" />
-	<plugin name="cordova-plugin-geofence" />
+	<plugin name="cordova-plugin-media" />-->
+	<plugin name="cordova-plugin-geofence" /><!--
   	<plugin name="cordova-plugin-media" />
   	<plugin name="cordova-plugin-contacts" />
 	<plugin name="cordova-plugin-appversion" />
@@ -40,7 +40,7 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="phonegap-plugin-barcodescanner" />
 	
-	<plugin name="phonegap-plugin-push" /> 
+	<plugin name="phonegap-plugin-push" /> -->
 	<preference name="target-device" value="handset" />
 	<preference name="swift-version" value="2.3" />
 	
