@@ -42,7 +42,7 @@
 	
 	<plugin name="phonegap-plugin-push" /> -->
 	<preference name="target-device" value="handset" />
-	<!--<preference name="swift-version" value="2.3" />-->
+	<preference name="swift-version" value="2.3" />
 	
   <!--<platform name="ios" />
   <platform name="android" />
