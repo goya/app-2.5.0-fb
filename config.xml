@@ -40,9 +40,9 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="phonegap-plugin-barcodescanner" />
 	
-	<plugin name="phonegap-plugin-push" /> -->
+	<plugin name="phonegap-plugin-push" />
 	<preference name="target-device" value="handset" />
-	<preference name="swift-version" value="2.3" />
+	<preference name="swift-version" value="2.3" /> -->
 	
   <!--<platform name="ios" />
   <platform name="android" />
@@ -50,7 +50,7 @@
   <!--<preference name="windows-appx-target" value="uap"/>
   <preference name="windows-arch" value="anycpu" />-->
   
-  <preference name="deployment-target" value="10.0" />
+  <!-- <preference name="deployment-target" value="10.0" /> -->
   <preference name="phonegap-version" value="cli-7.0.1" />
   <gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />
