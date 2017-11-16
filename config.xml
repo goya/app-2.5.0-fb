@@ -14,7 +14,7 @@
 	<author href="http://adobe.com" email="rudd@adobe.com">
 		Brett Rudd
 	</author>
-	
+	<plugin name="cordova-plugin-media" />
 	<!--<plugin spec="https://github.com/zhouzhongyuan/cordova-plugin-crosswalk-webview" />-->
 <!--<plugin name="cordova-plugin-file" />
 	<plugin name="cordova-plugin-device" />
