@@ -53,8 +53,8 @@
   <preference name="windows-arch" value="anycpu" />-->
   
   <!-- <preference name="deployment-target" value="10.0" /> -->
-  <preference name="phonegap-version" value="cli-7.1.0" />
-	<preference name='pgb-builder-version' value='1' />
+  <preference name="phonegap-version" value="cli-7.0.1" />
+	<preference name='apgb-builder-version' value='1' />
   <!--<gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />-->
   <!--<preference name="android-build-tool" value="gradle" />
