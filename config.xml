@@ -49,7 +49,7 @@
   <!--<platform name="ios" />
   <platform name="android" />
   <platform name="windows"/>-->
-	<plugin name="phonegap-plugin-push" spec="&lt;2.0.0" />
+	<!--<plugin name="phonegap-plugin-push" spec="&lt;2.0.0" />-->
   <!--<preference name="windows-appx-target" value="uap"/>
   <preference name="windows-arch" value="anycpu" />-->
   
