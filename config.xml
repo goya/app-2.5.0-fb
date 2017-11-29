@@ -49,13 +49,13 @@
   <!--<platform name="ios" />
   <platform name="android" />
   <platform name="windows"/>-->
-	<plugin name="phonegap-plugin-push" spec="v2.0.0" />
+	<plugin name="phonegap-plugin-push" spec="2.0.0" />
   <!--<preference name="windows-appx-target" value="uap"/>
   <preference name="windows-arch" value="anycpu" />-->
   
   <!-- <preference name="deployment-target" value="10.0" /> -->
   <preference name="phonegap-version" value="cli-7.1.0" />
-	<preference name='apgb-builder-version' value='1' />
+	<preference name='pgb-builder-version' value='1' />
   <!--<gap:splash src="splash-main.png" />
   <icon src="icon-main.png" />-->
   <!--<preference name="android-build-tool" value="gradle" />
