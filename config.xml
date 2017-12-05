@@ -15,7 +15,7 @@
 		Brett Rudd
 	</author>
 
-  <preference name="phonegap-version" value="cli-6.3.1" />
+  <preference name="phonegap-version" value="cli-6.0.0" />
   <preference name='pgb-builder-version' value='2' />
   
 </widget>
