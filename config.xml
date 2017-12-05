@@ -16,6 +16,6 @@
 	</author>
 
   <preference name="phonegap-version" value="cli-6.3.1" />
-	<preference name='apgb-builder-version' value='1' />
+  <preference name='pgb-builder-version' value='2' />
   
 </widget>
