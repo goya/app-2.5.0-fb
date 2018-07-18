@@ -1,2 +1,2 @@
 # app-min
-app-2.5.0-fb
+app-2.5.0
