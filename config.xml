@@ -19,5 +19,6 @@
 
   <preference name="phonegap-version" value="cli-6.4.0" />
   <preference name='pgb-builder-version' value='2' />
-  <plugin name="cordova-plugin-device" />
+  <plugin name="cordova-plugin-statusbar" />
+  <preference name="StatusBarBackgroundColor" value="#ff0000" />
 </widget>
