@@ -21,7 +21,6 @@
   <preference name='pgb-builder-version' value='1' />
   <plugin name="cordova-plugin-statusbar" />
 	<preference name="StatusBarOverlaysWebView" value="true" />
-	<preference name="StatusBarStyle" value="default" />
 	<preference name="DisallowOverscroll" value="false" />
 	<preference name="DisallowOverscroll" value="true" />
   <preference name="StatusBarBackgroundColor" value="#ff0000" />
