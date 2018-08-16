@@ -5,7 +5,7 @@
 	id			= "rambo"
 	android-packageName    	= "com.example.rambo"
 	ios-CFBundleIdentifier 	= "com.example.bloopla"
-	version 		= "1.0">
+	version 		= "1.0.1">
 
 	<name>taco taco cli-6.4.0</name>
 
