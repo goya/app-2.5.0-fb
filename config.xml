@@ -7,21 +7,13 @@
 	ios-CFBundleIdentifier 	= "com.example.bloopla"
 	version 		= "1.0.1">
 
-	<name>taco taco cli-8.0.0</name>
+	<name>taco-ant-builder-1</name>
 
 	<description>
-        Try out a minimum app!
+        A minimum app!
 	</description>
 
-	<author href="http://adobe.com" email="rudd@adobe.com">
-		Brett Rudd
-	</author>
-  <platform name="android" />
-  <preference name="phonegap-version" value="cli-8.0.0" />
-  <preference name='pgb-builder-version' value='1' />
-  <!--<plugin name="cordova-plugin-statusbar" />
-	<preference name="StatusBarOverlaysWebView" value="true" />
-	<preference name="DisallowOverscroll" value="false" />
-	<preference name="DisallowOverscroll" value="true" />
-  <preference name="StatusBarBackgroundColor" value="#ff0000" />-->
+  	<platform name="android" />
+	<preference name="android-build-tool" value="ant" />
+  	<preference name="pgb-builder-version" value="1" />
 </widget>
