@@ -16,4 +16,7 @@
 	<author href="http://adobe.com" email="rudd@adobe.com">
 		Brett Rudd
 	</author>
+	<platform name="android">
+		<preference name="phonegap-version" value="8.1.0" />
+	</platform>
 </widget>
